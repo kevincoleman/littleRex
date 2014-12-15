@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Tell a friend",
+    "flavorText": "Congrats! You told someone you’re making a human.",
+    "achieved": 1,
+    "image":
+    {
+      "background": "images/bg/tellAFriend.png",
+      "badge": "images/badge/tellAFriend.png"
+    }
+  },
+  {
+    "name": "Get Pregnant",
+    "flavorText": "That SnuggieSutra must’ve worked!",
+    "achieved": 1,
+    "image":
+    {
+      "background": "images/bg/getPregnant.png",
+      "badge": "images/badge/getPregnant.png"
+    }
+  },
+  {
+    "name": "First Doctor’s Appointment",
+    "flavorText": "Now a doc’s in the mix. Joy!",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/firstDoctorsAppointment.png",
+      "badge": "images/badge/firstDoctorsAppointment.png"
+    }
+  },
+  {
+    "name": "Cat’s Out of the Bag",
+    "flavorText": "Welp, looks like people know now.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/catsOutOfTheBag.png",
+      "badge": "images/badge/catsOutOfTheBag.png"
+    }
+  },
+  {
+    "name": "Pink or Blue?",
+    "flavorText": "Which’ll it be? Congrats on finding out!",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/pinkOrBlue.png",
+      "badge": "images/badge/pinkOrBlue.png"
+    }
+  },
+  {
+    "name": "Abandon a Dropped Item",
+    "flavorText": "It’s all the way on the FLOOR? Forget it.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/abandonDroppedItem.png",
+      "badge": "images/badge/abandonDroppedItem.png"
+    }
+  },
+  {
+    "name": "I lost my toes!",
+    "flavorText": "You won’t need to see them for a while anyway.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/lostMyToes.png",
+      "badge": "images/badge/lostMyToes.png"
+    }
+  },
+  {
+    "name": "Emotions Win.",
+    "flavorText": "Cry at a commercial? Yeah, we do too.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/emotionsWin.png",
+      "badge": "images/badge/emotionsWin.png"
+    }
+  },
+  {
+    "name": "LIES!",
+    "flavorText": "Someone lied to keep the secret. Good friend? Good liar?",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/lies.png",
+      "badge": "images/badge/lies.png"
+    }
+  },
+  {
+    "name": "Pregnancy Classes",
+    "flavorText": "Being an alien host is hard. Good thing there are classes.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/pregnancyClasses.png",
+      "badge": "images/badge/pregnancyClasses.png"
+    }
+  },
+  {
+    "name": "But I NEED it.",
+    "flavorText": "Go for a late-night cravings run.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/cravingRun.png",
+      "badge": "images/badge/cravingRun.png"
+    }
+  },
+  {
+    "name": "Sympathy Belly",
+    "flavorText": "Good job. You wore a sympathy belly&mdash;like a good husband.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/sympathyBelly.png",
+      "badge": "images/badge/sympathyBelly.png"
+    }
+  },
+  {
+    "name": "Closet Drinker",
+    "flavorText": "You helped your wife conceal her avoidance of alcohol, but we saw it!",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/closetDrinker.png",
+      "badge": "images/badge/closetDrinker.png"
+    }
+  },
+  {
+    "name": "Finished First Trimester!",
+    "flavorText": "Congrats! You’ve made 1/3 of a human.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/firstTrimester.png",
+      "badge": "images/badge/firstTrimester.png"
+    }
+  },
+  {
+    "name": "Finished Second Trimester!",
+    "flavorText": "Congrats! You’ve made 2/3 of a human.",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/secondTrimester.png",
+      "badge": "images/badge/secondTrimester.png"
+    }
+  },
+  {
+    "name": "Pop it out!",
+    "flavorText": "No way! That baby breathes air!",
+    "achieved": 0,
+    "image":
+    {
+      "background": "images/bg/popItOut.png",
+      "badge": "images/badge/popItOut.png"
+    }
+  }
+]

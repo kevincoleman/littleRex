@@ -1,5 +1,15 @@
 [
   {
+    "name": "Preggers",
+    "flavorText": "That SnuggieSutra must’ve worked!",
+    "achieved": 1,
+    "image":
+    {
+      "background": "images/bg/preggers.png",
+      "badge": "images/badge/preggers.png"
+    }
+  },
+  {
     "name": "Tell a friend",
     "flavorText": "Congrats! You told someone you’re making a human.",
     "achieved": 1,
@@ -7,16 +17,6 @@
     {
       "background": "images/bg/tellAFriend.png",
       "badge": "images/badge/tellAFriend.png"
-    }
-  },
-  {
-    "name": "Get Pregnant",
-    "flavorText": "That SnuggieSutra must’ve worked!",
-    "achieved": 1,
-    "image":
-    {
-      "background": "images/bg/getPregnant.png",
-      "badge": "images/badge/getPregnant.png"
     }
   },
   {

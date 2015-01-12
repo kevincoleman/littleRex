@@ -9,13 +9,6 @@ angular.module('myApp.view1', ['ngRoute'])
   });
 }])
 
-.controller('View1Ctrl', '$http', [function($http, $log) {
-  $http.get('data/achievements.json')
-  .success(function (data) {
-    $log.debug('Data retreived: ', data);
-    $scope.achievements = data;
-  })
-  .error(function (error) {
-    $log.error('An error has occured: ', error);
-  });
+.controller('View1Ctrl', [function() {
+  
 }]);

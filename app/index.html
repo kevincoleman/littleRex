@@ -7,7 +7,7 @@
   <body ng-controller="MainCtrl">
 
     <div ng-repeat="achievement in achievements" class="icon">
-      <img src="../images/badge/{{achievement.image}}" alt="{{achievement.name}}">
+      <img ng-if="achievement.achieved == 1" src="../images/badge/{{achievement.image}}" alt="{{achievement.name}}">
     </div>
 
     <!--includes-->

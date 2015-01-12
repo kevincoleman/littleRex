@@ -14,13 +14,13 @@
   {
     "name": "First Doctor’s Appointment",
     "flavorText": "Now a doc’s in the mix. Joy!",
-    "achieved": 0,
+    "achieved": 1,
     "image": "firstDoctorsAppointment.png"
   },
   {
     "name": "Cat’s Out of the Bag",
     "flavorText": "Welp, looks like people know now.",
-    "achieved": 0,
+    "achieved": 1,
     "image": "catsOutOfTheBag.png"
   },
   {

@@ -7,3 +7,7 @@
 .icon img {
   width: 100%;
 }
+
+.greyed {
+  opacity: .3;
+}

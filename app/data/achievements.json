@@ -3,90 +3,105 @@
     "name": "Preggers",
     "flavorText": "That SnuggieSutra must’ve worked!",
     "achieved": 1,
-    "image": "preggers.png"
+    "image": "preggers.png",
+    "selected": 0
   },
   {
     "name": "Tell a friend",
     "flavorText": "Congrats! You told someone you’re making a human.",
     "achieved": 1,
-    "image": "tellAFriend.png"
+    "image": "tellAFriend.png",
+    "selected": 0
   },
   {
     "name": "First Doctor’s Appointment",
     "flavorText": "Now a doc’s in the mix. Joy!",
     "achieved": 1,
-    "image": "firstDoctorsAppointment.png"
+    "image": "firstDoctorsAppointment.png",
+    "selected": 0
   },
   {
     "name": "Cat’s Out of the Bag",
     "flavorText": "Welp, looks like people know now.",
     "achieved": 1,
-    "image": "catsOutOfTheBag.png"
+    "image": "catsOutOfTheBag.png",
+    "selected": 0
   },
   {
     "name": "Pink or Blue?",
     "flavorText": "Which’ll it be? Congrats on finding out!",
     "achieved": 0,
-    "image": "pinkOrBlue.png"
+    "image": "pinkOrBlue.png",
+    "selected": 0
   },
   {
     "name": "Abandon a Dropped Item",
     "flavorText": "It’s all the way on the FLOOR? Forget it.",
     "achieved": 0,
-    "image": "abandonDroppedItem.png"
+    "image": "abandonDroppedItem.png",
+    "selected": 0
   },
   {
     "name": "I lost my toes!",
     "flavorText": "You won’t need to see them for a while anyway.",
     "achieved": 0,
-    "image": "lostMyToes.png"
+    "image": "lostMyToes.png",
+    "selected": 0
   },
   {
     "name": "Emotions Win.",
     "flavorText": "Cry at a commercial? Yeah, we do too.",
     "achieved": 0,
-    "image": "emotionsWin.png"
+    "image": "emotionsWin.png",
+    "selected": 0
   },
   {
     "name": "LIES!",
     "flavorText": "Someone lied to keep the secret. Good friend? Good liar?",
     "achieved": 0,
-    "image": "lies.png"
+    "image": "lies.png",
+    "selected": 0
   },
   {
     "name": "Pregnancy Classes",
     "flavorText": "Being an alien host is hard. Good thing there are classes.",
     "achieved": 0,
-    "image": "pregnancyClasses.png"
+    "image": "pregnancyClasses.png",
+    "selected": 0
   },
   {
     "name": "But I NEED it.",
     "flavorText": "Go for a late-night cravings run.",
     "achieved": 0,
-    "image": "cravingRun.png"
+    "image": "cravingRun.png",
+    "selected": 0
   },
   {
     "name": "Sympathy Belly",
     "flavorText": "Good job. You wore a sympathy belly&mdash;like a good husband.",
     "achieved": 0,
-    "image": "sympathyBelly.png"
+    "image": "sympathyBelly.png",
+    "selected": 0
   },
   {
     "name": "Finished First Trimester!",
     "flavorText": "Congrats! You’ve made 1/3 of a human.",
     "achieved": 0,
-    "image": "firstTrimester.png"
+    "image": "firstTrimester.png",
+    "selected": 0
   },
   {
     "name": "Finished Second Trimester!",
     "flavorText": "Congrats! You’ve made 2/3 of a human.",
     "achieved": 0,
-    "image": "secondTrimester.png"
+    "image": "secondTrimester.png",
+    "selected": 0
   },
   {
     "name": "Pop it out!",
     "flavorText": "No way! That baby breathes air!",
     "achieved": 0,
-    "image": "popItOut.png"
+    "image": "popItOut.png",
+    "selected": 0
   }
 ]

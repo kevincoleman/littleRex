@@ -29,7 +29,7 @@
   },
   {
     "name": "Paparazzi",
-    "flavorText": "Someone took a picture of your child. Just thought you should know before the press gets it.",
+    "flavorText": "Someone took a picture of your spawn. Just thought you should know before the press gets it.",
     "achieved": 1,
     "image": "paparazzi.png",
     "selected": false

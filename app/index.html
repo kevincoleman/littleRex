@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="littlerex">
   <head>
-    <title>The Life of Rex</title>
+    <title>Little Rex&rsquo;s Achievements</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body ng-controller="MainCtrl">
+    <div class="header">
+      <h1>Little Rex&rsquo;s Achievements</h1>
+    </div>
 
     <div ng-repeat="achievement in achievements" class="icon">
       <div ng-click="achievement.selected = false" ng-if="achievement.selected == 1" class="screen">

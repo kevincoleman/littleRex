@@ -7,12 +7,14 @@
   <body ng-controller="MainCtrl">
 
     <div ng-repeat="achievement in achievements" class="icon">
-      <div ng-click="achievement.selected = false" ng-if="achievement.selected == 1" class="popUp">
-        <img src="../images/badge/{{achievement.image}}" alt="{{achievement.name}}">
-        <p>
-          {{achievement.flavorText}}
-        </p>
-      </div> <!--popUp-->
+      <div ng-click="achievement.selected = false" ng-if="achievement.selected == 1" class="screen">
+        <div class="popUp">
+          <img src="../images/badge/{{achievement.image}}" alt="{{achievement.name}}">
+          <p>
+            {{achievement.flavorText}}
+          </p>
+        </div> <!--popUp-->
+      </div> <!--screen-->
       <a href="#" ng-click="achievement.selected = true">
         <img ng-if="achievement.achieved == 1" src="../images/badge/{{achievement.image}}" alt="{{achievement.name}}">
       </a>

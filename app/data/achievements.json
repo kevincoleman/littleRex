@@ -28,6 +28,13 @@
     "selected": false
   },
   {
+    "name": "Paparazzi",
+    "flavorText": "Someone took a picture of your child. Just thought you should know before the press gets it.",
+    "achieved": 1,
+    "image": "paparazzi.png",
+    "selected": false
+  },
+  {
     "name": "Pink or Blue?",
     "flavorText": "Which’ll it be? Congrats on finding out!",
     "achieved": 0,

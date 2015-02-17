@@ -1,4 +1,4 @@
-angular.module('kid-rpg', [
+angular.module('littlerex', [
 
 ])
 .controller('MainCtrl', function($scope, $http) {

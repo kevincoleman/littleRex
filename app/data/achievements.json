@@ -35,6 +35,13 @@
     "selected": false
   },
   {
+    "name": "Finished First Trimester!",
+    "flavorText": "Congrats! You’ve made 1/3 of a human.",
+    "achieved": 1,
+    "image": "firstTrimester.png",
+    "selected": false
+  },
+  {
     "name": "Pink or Blue?",
     "flavorText": "Which’ll it be? Congrats on finding out!",
     "achieved": 0,
@@ -88,13 +95,6 @@
     "flavorText": "Good job. You wore a sympathy belly&mdash;like a good husband.",
     "achieved": 0,
     "image": "sympathyBelly.png",
-    "selected": false
-  },
-  {
-    "name": "Finished First Trimester!",
-    "flavorText": "Congrats! You’ve made 1/3 of a human.",
-    "achieved": 0,
-    "image": "firstTrimester.png",
     "selected": false
   },
   {

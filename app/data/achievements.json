@@ -49,6 +49,13 @@
     "selected": false
   },
   {
+    "name": "It's Alive!",
+    "flavorText": "You felt Rex kick. Just wait for the teeth to come in.",
+    "achieved": 1,
+    "image": "itsAlive.gif",
+    "selected": false
+  },
+  {
     "name": "Pink or Blue?",
     "flavorText": "Which’ll it be? Congrats on finding out!",
     "achieved": 0,

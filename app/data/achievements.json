@@ -56,17 +56,17 @@
     "selected": false
   },
   {
+    "name": "Giving Up",
+    "flavorText": "Drop something? Want to ride a bike? Feel like shaving your legs? Ha.",
+    "achieved": 1,
+    "image": "givingUp.png",
+    "selected": false
+  },
+  {
     "name": "Pink or Blue?",
     "flavorText": "Which’ll it be? Congrats on finding out!",
     "achieved": 0,
     "image": "pinkOrBlue.png",
-    "selected": false
-  },
-  {
-    "name": "Abandon a Dropped Item",
-    "flavorText": "It’s all the way on the FLOOR? Forget it.",
-    "achieved": 0,
-    "image": "abandonDroppedItem.png",
     "selected": false
   },
   {

@@ -64,9 +64,16 @@
   },
   {
     "name": "Pink or Blue?",
-    "flavorText": "Which’ll it be? Congrats on finding out!",
-    "achieved": 0,
+    "flavorText": "Which color will be in vogue this year? Congrats on finding out!",
+    "achieved": 1,
     "image": "pinkOrBlue.png",
+    "selected": false
+  },
+  {
+    "name": "Name-Caller",
+    "flavorText": "Sticks and stones may break my bones, but a name probably wouldn’t hurt.",
+    "achieved": 1,
+    "image": "nameCaller.png",
     "selected": false
   },
   {

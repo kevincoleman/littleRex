@@ -23,6 +23,7 @@ html, body {
 
 .header {
   background-color: #8cc63f;
+  background-image: url('/images/header.png');
   padding: 1.5em;
   margin: 0 0 1em;
 }

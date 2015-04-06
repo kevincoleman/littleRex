@@ -77,6 +77,13 @@
     "selected": false
   },
   {
+    "name": "Finished Second Trimester!",
+    "flavorText": "Congrats! You’ve made it two thirds of the way there.",
+    "achieved": 0,
+    "image": "secondTrimester.png",
+    "selected": false
+  },
+  {
     "name": "I lost my toes!",
     "flavorText": "You won’t need to see them for a while anyway.",
     "achieved": 0,

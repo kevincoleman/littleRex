@@ -86,7 +86,7 @@
   {
     "name": "I lost my toes!",
     "flavorText": "You won’t need to see them for a while anyway.",
-    "achieved": 0,
+    "achieved": 1,
     "image": "lostMyToes.png",
     "selected": false
   },

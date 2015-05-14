@@ -92,7 +92,7 @@
   },
   {
     "name": "Emotions Win.",
-    "flavorText": "Cry at a commercial? Yeah, we do too.",
+    "flavorText": "Cry at commercials? Yeah, we do too.",
     "achieved": 0,
     "image": "emotionsWin.png",
     "selected": false
@@ -119,10 +119,10 @@
     "selected": false
   },
   {
-    "name": "Finished Second Trimester!",
-    "flavorText": "Congrats! You’ve made 2/3 of a human.",
+    "name": "False Alarm!",
+    "flavorText": "Just Joshin&rsquo; ya.",
     "achieved": 0,
-    "image": "secondTrimester.png",
+    "image": "falseAlarm.png",
     "selected": false
   },
   {

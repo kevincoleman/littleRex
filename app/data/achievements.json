@@ -79,7 +79,7 @@
   {
     "name": "Finished Second Trimester!",
     "flavorText": "Congrats! You’ve made it two thirds of the way there.",
-    "achieved": 0,
+    "achieved": 1,
     "image": "secondTrimester.png",
     "selected": false
   },

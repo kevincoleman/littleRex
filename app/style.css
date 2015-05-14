@@ -1,13 +1,4 @@
-@media only screen
-and (max-device-width : 320px) {
-  .screen .popUp {
-    left: 16%;
-    width: 60%;
-  }
-  .popUp p {
-    font-size: 3em;
-  }
-}
+
 
 html, body {
   margin: 0;
@@ -108,7 +99,6 @@ a {
   }
   @media (max-device-width: 719px) {
     .popUp {
-      margin-left: 0;
       font-size: .5em;
     }
   }

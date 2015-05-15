@@ -56,29 +56,43 @@
     "selected": false
   },
   {
+    "name": "Giving Up",
+    "flavorText": "Drop something? Want to ride a bike? Feel like shaving your legs? Ha.",
+    "achieved": 1,
+    "image": "givingUp.png",
+    "selected": false
+  },
+  {
     "name": "Pink or Blue?",
-    "flavorText": "Which’ll it be? Congrats on finding out!",
-    "achieved": 0,
+    "flavorText": "Which color will be in vogue this year? Congrats on finding out!",
+    "achieved": 1,
     "image": "pinkOrBlue.png",
     "selected": false
   },
   {
-    "name": "Abandon a Dropped Item",
-    "flavorText": "It’s all the way on the FLOOR? Forget it.",
-    "achieved": 0,
-    "image": "abandonDroppedItem.png",
+    "name": "Name-Caller",
+    "flavorText": "Sticks and stones may break my bones, but a name probably wouldn’t hurt.",
+    "achieved": 1,
+    "image": "nameCaller.png",
+    "selected": false
+  },
+  {
+    "name": "Finished Second Trimester!",
+    "flavorText": "Congrats! You’ve made it two thirds of the way there.",
+    "achieved": 1,
+    "image": "secondTrimester.png",
     "selected": false
   },
   {
     "name": "I lost my toes!",
     "flavorText": "You won’t need to see them for a while anyway.",
-    "achieved": 0,
+    "achieved": 1,
     "image": "lostMyToes.png",
     "selected": false
   },
   {
     "name": "Emotions Win.",
-    "flavorText": "Cry at a commercial? Yeah, we do too.",
+    "flavorText": "Cry at commercials? Yeah, we do too.",
     "achieved": 0,
     "image": "emotionsWin.png",
     "selected": false
@@ -105,10 +119,10 @@
     "selected": false
   },
   {
-    "name": "Finished Second Trimester!",
-    "flavorText": "Congrats! You’ve made 2/3 of a human.",
+    "name": "False Alarm!",
+    "flavorText": "Just Joshin&rsquo; ya.",
     "achieved": 0,
-    "image": "secondTrimester.png",
+    "image": "falseAlarm.png",
     "selected": false
   },
   {

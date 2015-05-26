@@ -91,6 +91,13 @@
     "selected": false
   },
   {
+    "name": "Outtie!",
+    "flavorText": "Put that belly button back where it came from or so help me!",
+    "achieved": 0,
+    "image": "outtie.png",
+    "selected": false
+  },
+  {
     "name": "Emotions Win.",
     "flavorText": "Cry at commercials? Yeah, we do too.",
     "achieved": 0,

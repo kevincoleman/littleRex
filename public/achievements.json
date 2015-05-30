@@ -1,142 +1,162 @@
 [
   {
     "name": "Preggers",
+    "slug": "preggers",
+    "image": "preggers.png",
     "flavorText": "That SnuggieSutra must’ve worked!",
     "achieved": 1,
-    "image": "preggers.png",
     "selected": false
   },
   {
     "name": "Tell a friend",
+    "slug": "tellAFriend",
+    "image": "tellAFriend.png",
     "flavorText": "Congrats! You told someone you’re making a human.",
     "achieved": 1,
-    "image": "tellAFriend.png",
     "selected": false
   },
   {
+    "slug": "firstDoctorsAppointment",
+    "image": "firstDoctorsAppointment.png",
     "name": "First Doctor’s Appointment",
     "flavorText": "Now a doc’s in the mix. Joy!",
     "achieved": 1,
-    "image": "firstDoctorsAppointment.png",
     "selected": false
   },
   {
     "name": "Cat’s Out of the Bag",
+    "slug": "catsOutOfTheBag",
+    "image": "catsOutOfTheBag.png",
     "flavorText": "Welp, looks like people know now.",
     "achieved": 1,
-    "image": "catsOutOfTheBag.png",
     "selected": false
   },
   {
     "name": "Paparazzi",
+    "slug": "paparazzi",
+    "image": "paparazzi.png",
     "flavorText": "Someone took a picture of your spawn. Just thought you should know before the press gets it.",
     "achieved": 1,
-    "image": "paparazzi.png",
     "selected": false
   },
   {
     "name": "Finished First Trimester!",
+    "slug": "firstTrimester",
+    "image": "firstTrimester.png",
     "flavorText": "Congrats! You’ve made it one third of the way there.",
     "achieved": 1,
-    "image": "firstTrimester.png",
     "selected": false
   },
   {
     "name": "LIES!",
+    "slug": "lies",
+    "image": "lies.png",
     "flavorText": "Someone lied to keep the secret. Good friend? Good liar?",
     "achieved": 1,
-    "image": "lies.png",
     "selected": false
   },
   {
     "name": "It's Alive!",
+    "slug": "itsAlive",
+    "image": "itsAlive.gif",
     "flavorText": "You felt Rex kick. Just wait for the teeth to come in.",
     "achieved": 1,
-    "image": "itsAlive.gif",
     "selected": false
   },
   {
     "name": "Giving Up",
+    "slug": "givingUp",
+    "image": "givingUp.png",
     "flavorText": "Drop something? Want to ride a bike? Feel like shaving your legs? Ha.",
     "achieved": 1,
-    "image": "givingUp.png",
     "selected": false
   },
   {
     "name": "Pink or Blue?",
+    "slug": "pinkOrBlue",
+    "image": "pinkOrBlue.png",
     "flavorText": "Which color will be in vogue this year? Congrats on finding out!",
     "achieved": 1,
-    "image": "pinkOrBlue.png",
     "selected": false
   },
   {
     "name": "Name-Caller",
+    "slug": "nameCaller",
+    "image": "nameCaller.png",
     "flavorText": "Sticks and stones may break my bones, but a name probably wouldn’t hurt.",
     "achieved": 1,
-    "image": "nameCaller.png",
     "selected": false
   },
   {
     "name": "Finished Second Trimester!",
+    "slug": "secondTrimester",
+    "image": "secondTrimester.png",
     "flavorText": "Congrats! You’ve made it two thirds of the way there.",
     "achieved": 1,
-    "image": "secondTrimester.png",
     "selected": false
   },
   {
     "name": "I lost my toes!",
+    "slug": "lostMyToes",
+    "image": "lostMyToes.png",
     "flavorText": "You won’t need to see them for a while anyway.",
     "achieved": 1,
-    "image": "lostMyToes.png",
     "selected": false
   },
   {
     "name": "Outtie!",
-    "flavorText": "Put that belly button back where it came from or so help me!",
-    "achieved": 0,
+    "slug": "outtie",
     "image": "outtie.png",
+    "flavorText": "Put that thing back where it came from or so help me!",
+    "achieved": 1,
     "selected": false
   },
   {
     "name": "Emotions Win.",
+    "slug": "emotionsWin",
+    "image": "emotionsWin.png",
     "flavorText": "Cry at commercials? Yeah, we do too.",
     "achieved": 0,
-    "image": "emotionsWin.png",
     "selected": false
   },
   {
     "name": "Pregnancy Classes",
+    "slug": "pregnancyClasses",
+    "image": "pregnancyClasses.png",
     "flavorText": "Being an alien host is hard. Good thing there are classes.",
     "achieved": 0,
-    "image": "pregnancyClasses.png",
     "selected": false
   },
   {
     "name": "But I NEED it.",
+    "slug": "cravingRun",
+    "image": "cravingRun.png",
     "flavorText": "Go for a late-night cravings run.",
     "achieved": 0,
-    "image": "cravingRun.png",
     "selected": false
   },
   {
     "name": "Sympathy Belly",
+    "slug": "sympathyBelly",
+    "image": "sympathyBelly.png",
     "flavorText": "Good job. You wore a sympathy belly&mdash;like a good husband.",
     "achieved": 0,
-    "image": "sympathyBelly.png",
     "selected": false
   },
   {
+    "slug": "falseAlarm",
+    "image": "falseAlarm.png",
     "name": "False Alarm!",
     "flavorText": "Just Joshin&rsquo; ya.",
     "achieved": 0,
-    "image": "falseAlarm.png",
     "selected": false
   },
   {
     "name": "Pop it out!",
+    "slug": "popItOut",
+    "image": "popItOut.png",
     "flavorText": "No way! That baby breathes air!",
     "achieved": 0,
-    "image": "popItOut.png",
     "selected": false
   }
 ]
